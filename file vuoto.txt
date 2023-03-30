@@ -1,1 +1,9 @@
+Nome ristorante= La zellosa
 
+Tipo di menu = menu di carne
+
+Drink:
+Acqua gassata
+Acqua naturale
+Birra
+Vino
